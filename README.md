@@ -30,8 +30,8 @@ Sample Dataset: The Airline dataset was given in the capstone project. The link 
 
 ### Project Structure
 The project is organized into the following sections:
-- Data Collection and Preprocessing: This section covers how we acquired the Spotify dataset, cleaned and preprocessed it to prepare it for analysis in Power BI.
-- Power BI Dashboards: Here, you'll find the interactive dashboards and reports created in Power BI, showcasing various aspects of Spotify data.
+- Data Collection and Preprocessing: This section covers how we acquired the dano airline dataset, cleaned and preprocessed it to prepare it for analysis in Power BI.
+- Power BI Dashboards: Here, you'll find the interactive dashboards and reports created in Power BI, showcasing various aspects of airline dataset.
 - Analysis and Insights: We delve into the insights and findings from the data analysis, highlighting trends, patterns, and interesting discoveries.
 - Documentation: Detailed instructions on how to use the Power BI dashboard, explanations of visualizations, and methodologies applied in the project.
 - Contributing: Information on how to contribute to the project, report issues, or suggest improvements.
